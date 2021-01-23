@@ -4,10 +4,10 @@
  
  The first thing to do is make a Hotel size. To making this, I use array[floor][room].
  And I devide into the following areas.
- >###1. Check In
+ >### 1. Check In
  
- ###2. Check Out
+ ### 2. Check Out
  
- ###3. Display
+ ### 3. Display
  
- ###4. Exit
+ ### 4. Exit
