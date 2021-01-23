@@ -16,5 +16,5 @@
  ### 4. Exit
   * It means exit the program.
   
-  As you can see from reading, It's so simple program right? I hope this program is helpful, and if you have anyfeedback please tell me.
+  As you can see from reading, It's so simple program right? I hope this program is helpful, and if you have any feedback please tell me.
   Thank you everyone.
